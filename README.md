@@ -38,6 +38,20 @@
 | Random Forest | 88% | 0.94 |
 | *XGBoost ✅* | *90%* | *0.96* |
 
+## 📸 App Screenshots
+
+### ✅ Healthy Patient
+
+
+![Healthy](reports/Screenshot.png)
+
+
+
+### ⚠️ High Risk Patient
+
+
+![Risk](reports/Screenshot2.png)
+
 ## 🚀 How To Run
 ```bash
 pip install -r requirements.txt
